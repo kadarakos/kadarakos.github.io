@@ -1,7 +1,12 @@
-## Welcome to GitHub Pages
+## Ákos Kádár personal page
 
 I am a PhD student at [Tilburg Center for Cognition and Communication](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/). My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). The primary focus of my research is the joint learning of linguistic meaning and visual representations. In my research I use deep learning techniques from Computer Vision and NLP. My main interest at the moment is in improving vision and language processing through joint learning.
 
+
+## Recent Activities
+
+- Reviewer for ACL 2017
+- Going to work at Maluuba (Microsoft) May-Aug 2017
 
 ## Publications
 
@@ -23,3 +28,10 @@ ACL-IJCNLP 2015
 [Learning word meanings from images of natural scenes](https://www.atala.org/IMG/pdf/3-_TAL-_55-3-_AKadar-final.pdf)   
 TAL 2016   
 [Code](https://github.com/kadarakos/IBMVisual)
+
+
+
+## Master Thesis  
+Ákos Kádár    
+[Grounded Learning for Source Code Component Retrieval](http://arno.uvt.nl/show.cgi?fid=135217)   
+[Code](https://bitbucket.org/kadar_akos/search-engine-for-java-method-signatures/overview)   
