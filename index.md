@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kadarakos/akoskadar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student at [Tilburg Center for Cognition and Communication](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/). My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). The primary focus of my research is the joint learning of linguistic meaning and visual representations. In my research I use deep learning techniques from Computer Vision and NLP. My main interest at the moment is in improving vision or language processing through joint learning.
 
 ### Markdown
 
