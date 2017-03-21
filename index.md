@@ -5,6 +5,6 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
-Ákos Kádár, Grzegorz Chrupała, Afra Alishahi
-Representation of linguistic form and function in recurrent neural networks [arxiv](http://arxiv.org/abs/1602.08952)
+Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
+Representation of linguistic form and function in recurrent neural networks [arxiv](http://arxiv.org/abs/1602.08952)  
 Under revision in Computational Linguistics
