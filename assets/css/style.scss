@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+p {
+    font-size: 14px;
+}
+
+/*  Link colors   */ 
 a:link {
     color: #99ccff
 }
@@ -14,6 +19,8 @@ a:visited  {
 a:hover {
     color: hotpink;
 }
+
+/*  Icon animations   */ 
 
 a img {
     width: 32px;
