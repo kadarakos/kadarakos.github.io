@@ -17,6 +17,7 @@ a:hover {
 
 img {
     transition: width 2s, height 4s;
+    -webkit-transition: width 2s, height 4s;
 }
 
 img:hover {
