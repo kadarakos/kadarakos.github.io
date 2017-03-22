@@ -19,8 +19,8 @@ a img {
     width: 32px;
     height: 32px;
     border: 0;
-    -webkit-transition: -webkit-transform: 2s;
-    transition: transform: 2s; 
+    -webkit-transition: -webkit-transform 2s;
+    transition: transform 2s; 
 }
 
 a img:hover {
