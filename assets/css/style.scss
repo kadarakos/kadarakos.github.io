@@ -19,13 +19,13 @@ a:hover {
     width: 32px;
     height: 32px;
     border: 0;
-    -webkit-transition: width 1s, height 1s; -webkit-transform: 1s;
-    transition: width 1s, height 1s;  transform: 1s; 
+    -webkit-transition: width 0.5s, height 0.5s; -webkit-transform: 2s;
+    transition: width 0.5s, height 0.5s;  transform: 2s; 
 }
 
 .ico img:hover {
     width: 40px;
     height: 40px;
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg);
+    -webkit-transform: rotate(350deg);
+    transform: rotate(350deg);
 }
