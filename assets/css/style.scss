@@ -44,6 +44,10 @@ section #title h1{
   animation: type 4s steps(60, end); 
 }
 
+section #title h1:nth-child(2){
+  animation: type2 8s steps(60, end);
+}
+
 span{
   animation: blink 1s infinite;
 }
