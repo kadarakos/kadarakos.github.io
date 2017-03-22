@@ -15,8 +15,11 @@ a:hover {
     color: hotpink;
 }
 
-.divider{
-    width:5px;
-    height:auto;
-    display:inline-block;
+#git-ico {
+    transition: width 2s, height 4s;
+}
+
+#git-ico:hover {
+    width: 300px;
+    height: 300px;
 }
