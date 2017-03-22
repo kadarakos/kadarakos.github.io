@@ -23,7 +23,7 @@ a:hover {
     transition: width 2s, height 4s;
 }
 
-.ico img {
+.ico img:hover {
     width: 300px;
     height: 300px;
     -webkit-transform: rotate(180deg);
