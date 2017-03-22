@@ -38,8 +38,7 @@ a img:hover {
 
 /* CSS3 typwriter madness */
 /* Google Fonts */
-#title h1{
-  font-family: "Courier";
+section #title h1{
   white-space: nowrap;
   overflow: hidden;
   animation: type 4s steps(60, end); 
