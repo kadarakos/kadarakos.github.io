@@ -2,9 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400);
 
 p {
-    font-size: 14px;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
 }
 
 /*  Link colors   */ 
