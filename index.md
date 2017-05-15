@@ -11,6 +11,12 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
+Desmond Elliott, Ákos Kádár  
+[Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
+Under revision in EMNLP
+
+
+
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
 [Representation of linguistic form and function in recurrent neural networks](http://arxiv.org/abs/1602.08952)  
 Under revision in Computational Linguistics   
