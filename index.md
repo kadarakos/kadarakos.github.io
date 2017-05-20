@@ -13,7 +13,6 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
-Under revision in EMNLP
 
 
 
