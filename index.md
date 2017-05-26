@@ -4,7 +4,8 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Recent Activities
 
-- Research Scientist internship at Maluuba (Microsoft) May-Aug 2017
+- Research internship at Microsoft Maluuba May-Aug 2017
+- I am on the program committee EMNLP 2017 WMT
 - I am on the program committee for SEM 2017
 - I am on the program committee fore ACL 2017
 
