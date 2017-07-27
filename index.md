@@ -19,7 +19,7 @@ Desmond Elliott, Ákos Kádár
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
 [Representation of linguistic form and function in recurrent neural networks](http://arxiv.org/abs/1602.08952)  
-Under revision in Computational Linguistics   
+Computational Linguistics 2017   
 
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
