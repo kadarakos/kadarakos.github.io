@@ -12,6 +12,11 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
+Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Akos Kadar, Adam Trischler, Yoshua Bengio  
+FigureQA: An annotated figure dataset for visual reasoning  
+Montreal AI Symposium 2017 (abstract)  
+
+
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
 To appear in IJCNLP 2017
