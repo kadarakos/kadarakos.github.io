@@ -4,6 +4,7 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Recent Activities
 
+- Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
 - Research internship at Microsoft Maluuba May-Sep 2017
 - I am on the program committee EMNLP 2017 WMT
 - I am on the program committee for SEM 2017
@@ -11,6 +12,10 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 
 ## Publications
+
+Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio
+[FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)
+
 
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
