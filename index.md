@@ -1,11 +1,11 @@
 
-I am a PhD student at [Tilburg Center for Cognition and Communication](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/). My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). The primary focus of my research is the joint learning of linguistic meaning and visual representations. In my research I use deep learning techniques from Computer Vision and NLP. I'm currently in Montreal at [Microsoft Maluuba](http://www.maluuba.com/). 
+I am a PhD student at [Tilburg Center for Cognition and Communication](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/). My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). The primary focus of my research is the joint learning of linguistic meaning and visual representations. In my research I use deep learning techniques from Computer Vision and NLP. 
 
 
 ## Recent Activities
 
 - Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
-- Research internship at Microsoft Maluuba May-Sep 2017
+- Research internship at [Microsoft Maluuba](http://www.maluuba.com/) May-Sep 2017  
 - I am on the program committee EMNLP 2017 WMT
 - I am on the program committee for SEM 2017
 - I am on the program committee fore ACL 2017
@@ -19,7 +19,7 @@ Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Tri
 
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
-To appear in IJCNLP 2017
+IJCNLP 2017
 
 
 
