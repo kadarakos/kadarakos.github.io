@@ -4,7 +4,7 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Recent Activities
 
-- I am on the program committee for ACL 2018
+- I am on the program committee for ACL 2018  
 - Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
 - Research internship at [Microsoft Research Montreal](http://www.maluuba.com/) May-Sep 2017  
 - I am on the program committee EMNLP 2017 WMT
