@@ -4,23 +4,23 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Recent Activities
 
+- I am on the program committee for ACL 2018
 - Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
-- Research internship at [Microsoft Maluuba](http://www.maluuba.com/) May-Sep 2017  
+- Research internship at [Microsoft Research Montreal](http://www.maluuba.com/) May-Sep 2017  
 - I am on the program committee EMNLP 2017 WMT
 - I am on the program committee for SEM 2017
-- I am on the program committee fore ACL 2017
+- I am on the program committee for ACL 2017
 
 
 ## Publications
 
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
 [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)
-
+ICLR 2018 Workshop
 
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
 IJCNLP 2017
-
 
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
