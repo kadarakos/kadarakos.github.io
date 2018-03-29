@@ -15,7 +15,7 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 ## Publications
 
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
-[FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)
+[FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)  
 ICLR 2018 Workshop
 
 Desmond Elliott, Ákos Kádár  
