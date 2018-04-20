@@ -14,6 +14,10 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
+Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
+NeuralREG: An end-to-end approach to referring expression generation    
+ACL 2018 (to appear)
+
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
 [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)  
 ICLR 2018 Workshop
