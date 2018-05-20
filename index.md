@@ -14,6 +14,14 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
+Revisiting the Hierarchical Multiscale LSTM   
+Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi    
+COLING 2018 (to appear)   
+
+DIDEC: The Dutch Image Description and Eye-tracking Corpus    
+Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer     
+COLING 2018 (to appear)    
+
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
 NeuralREG: An end-to-end approach to referring expression generation    
 ACL 2018 (to appear)
