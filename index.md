@@ -9,6 +9,8 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 - I am on the program committee for SEM 2017
 - I am on the program committee for ACL 2017
 
+<a class="twitter-timeline" href="https://twitter.com/kadarakos">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## Publications
 
 Revisiting the Hierarchical Multiscale LSTM   
