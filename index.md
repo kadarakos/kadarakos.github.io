@@ -2,6 +2,7 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Recent Activities
 
+- I am on the program committee for NIPS 2018
 - I am on the program committee for ACL 2018  
 - Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
 - Research internship at [Microsoft Research Montreal](http://www.maluuba.com/) May-Sep 2017  
@@ -9,7 +10,6 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 - I am on the program committee for SEM 2017
 - I am on the program committee for ACL 2017
 
-<a class="twitter-timeline" href="https://twitter.com/kadarakos">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Publications
 
