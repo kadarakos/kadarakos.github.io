@@ -22,7 +22,7 @@ Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer
 COLING 2018 (to appear)    
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
-NeuralREG: An end-to-end approach to referring expression generation    
+[NeuralREG: An end-to-end approach to referring expression generation](https://arxiv.org/abs/1805.08093)    
 ACL 2018 (to appear)
 
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
