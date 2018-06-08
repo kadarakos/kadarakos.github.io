@@ -23,7 +23,7 @@ COLING 2018 (to appear)
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
 [NeuralREG: An end-to-end approach to referring expression generation](https://arxiv.org/abs/1805.08093)    
-ACL 2018 (to appear)
+ACL 2018 (to appear) | [Code](https://github.com/ThiagoCF05/NeuralREG)    
 
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
 [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)  
@@ -31,12 +31,12 @@ ICLR 2018 Workshop
 
 Desmond Elliott, Ákos Kádár  
 [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350)  
-IJCNLP 2017
+IJCNLP 2017 | [Code](https://github.com/elliottd/imagination)    
 
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
 [Representation of linguistic form and function in recurrent neural networks](http://arxiv.org/abs/1602.08952)  
-Computational Linguistics 2017   
+Computational Linguistics 2017 | [Code](https://github.com/gchrupala/rep-form-function)       
 
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi  
@@ -46,12 +46,11 @@ EMNLP VL'15 (poster presentation)
 
 Grzegorz Chrupała, Ákos Kádár, Afra Alishahi  
 [Learning language through pictures](http://arxiv.org/abs/1506.03694)  
-ACL-IJCNLP 2015   
+ACL-IJCNLP 2015 | [Code](https://github.com/gchrupala/imaginet)    
 
 Ákos Kádár, Grzegorz Chrupała, Afra Alishahi    
 [Learning word meanings from images of natural scenes](https://www.atala.org/IMG/pdf/3-_TAL-_55-3-_AKadar-final.pdf)   
-TAL 2016   
-[Code](https://github.com/kadarakos/IBMVisual)
+TAL 2016  | [Code](https://github.com/kadarakos/IBMVisual)   
 
 
 
