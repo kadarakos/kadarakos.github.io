@@ -13,17 +13,22 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 
 ## Publications
 
-Revisiting the Hierarchical Multiscale LSTM   
+
+Marc-Alexandre Côté, Ákos Kádár, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler    
+[TextWorld: A Learning Environment for Text-based Games](https://arxiv.org/abs/1806.11532)    
+Computer Games Workshop at ICML/IJCAI 2018     
+
 Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi    
+Revisiting the Hierarchical Multiscale LSTM   
 COLING 2018 (to appear)   
 
-DIDEC: The Dutch Image Description and Eye-tracking Corpus    
 Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer     
+DIDEC: The Dutch Image Description and Eye-tracking Corpus    
 COLING 2018 (to appear)    
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
 [NeuralREG: An end-to-end approach to referring expression generation](https://arxiv.org/abs/1805.08093)    
-ACL 2018 (to appear) | [Code](https://github.com/ThiagoCF05/NeuralREG)    
+ACL 2018 | [Code](https://github.com/ThiagoCF05/NeuralREG)    
 
 Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio   
 [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)  
