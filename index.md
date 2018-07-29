@@ -1,4 +1,4 @@
-I am finishing my PhD in April 2019 at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University. My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). I focus on the joint learning of linguistic and visual representations. In my research I use deep learning techniques from Computer Vision and NLP. 
+I am finishing my PhD in April 2019 at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University. My project is in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/). I focus on the joint learning of linguistic and visual representations using deep learning techniques from Computer Vision and Natural Language Processing. 
 
 ## Recent Activities
 
