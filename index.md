@@ -14,17 +14,21 @@ I am a PhD student at [Tilburg Center for Cognition and Communication](https://w
 ## Publications
 
 
+Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi   
+Lessons learned in multilingual grounded language learning   
+EMNLP/ConLL 2018     
+
 Marc-Alexandre Côté, Ákos Kádár, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler    
 [TextWorld: A Learning Environment for Text-based Games](https://arxiv.org/abs/1806.11532)    
 Computer Games Workshop at ICML/IJCAI 2018     
 
 Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi    
-Revisiting the Hierarchical Multiscale LSTM   
-COLING 2018 (to appear)   
+[Revisiting the Hierarchical Multiscale LSTM](https://arxiv.org/abs/1807.03595)   
+COLING 2018        
 
 Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer     
 DIDEC: The Dutch Image Description and Eye-tracking Corpus    
-COLING 2018 (to appear)    
+COLING 2018        
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
 [NeuralREG: An end-to-end approach to referring expression generation](https://arxiv.org/abs/1805.08093)    
