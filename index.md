@@ -27,7 +27,7 @@ Computer Games Workshop at ICML/IJCAI 2018
 COLING 2018        
 
 Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer     
-DIDEC: The Dutch Image Description and Eye-tracking Corpus    
+[DIDEC: The Dutch Image Description and Eye-tracking Corpus](http://www.aclweb.org/anthology/C18-1310)    
 COLING 2018        
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
