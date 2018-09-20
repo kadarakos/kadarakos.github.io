@@ -15,7 +15,7 @@ I am finishing my PhD in April 2019 at department of [Cognitive Science & Artifi
 
 
 Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi   
-Lessons learned in multilingual grounded language learning   
+[Lessons learned in multilingual grounded language learning](http://grzegorz.chrupala.me/papers/lessons-learned.pdf)   
 EMNLP/ConLL 2018     
 
 Marc-Alexandre Côté, Ákos Kádár, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler    
