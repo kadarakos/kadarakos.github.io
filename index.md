@@ -28,7 +28,7 @@ COLING 2018
 
 Emiel van Miltenburg, Ákos Kádár, Ruud Koolen and Emiel Krahmer     
 [DIDEC: The Dutch Image Description and Eye-tracking Corpus](http://www.aclweb.org/anthology/C18-1310)    
-COLING 2018        
+COLING 2018 | [Website](https://didec.uvt.nl/)           
 
 Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer   
 [NeuralREG: An end-to-end approach to referring expression generation](https://arxiv.org/abs/1805.08093)    
