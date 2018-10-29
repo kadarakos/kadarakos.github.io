@@ -16,11 +16,11 @@ I am finishing my PhD in April 2019 at department of [Cognitive Science & Artifi
 
 Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi   
 [Lessons learned in multilingual grounded language learning](http://grzegorz.chrupala.me/papers/lessons-learned.pdf)   
-EMNLP/ConLL 2018|[Code](https://github.com/kadarakos/mulisera)        
+EMNLP/ConLL 2018 | [Code](https://github.com/kadarakos/mulisera)        
 
 Marc-Alexandre Côté, Ákos Kádár, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler    
 [TextWorld: A Learning Environment for Text-based Games](https://arxiv.org/abs/1806.11532)    
-Computer Games Workshop at ICML/IJCAI 2018|[Code](https://github.com/Microsoft/TextWorld)         
+Computer Games Workshop at ICML/IJCAI 2018 | [Code](https://github.com/Microsoft/TextWorld)         
 
 Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi    
 [Revisiting the Hierarchical Multiscale LSTM](https://arxiv.org/abs/1807.03595)   
