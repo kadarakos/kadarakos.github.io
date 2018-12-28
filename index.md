@@ -13,6 +13,9 @@ I am finishing my PhD in April 2019 at department of [Cognitive Science & Artifi
 
 ## Publications
 
+Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi     
+[On the difficulty of a distributional semantics of spoken language](https://scholarworks.umass.edu/scil/vol2/iss1/18/)     
+Proceedings of the Society for Computation in Linguistics 2019    
 
 Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi   
 [Lessons learned in multilingual grounded language learning](http://grzegorz.chrupala.me/papers/lessons-learned.pdf)   
