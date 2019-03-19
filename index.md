@@ -13,6 +13,10 @@ I am finishing my PhD in April 2019 at department of [Cognitive Science & Artifi
 
 ## Publications
 
+Enrique Manjavacas, Ákos Kádár, and Mike Kestemont    
+[Improving Lemmatization of Non-Standard Languages with Joint Learning](https://arxiv.org/pdf/1903.06939.pdf)    
+NAACL 2019    
+
 Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi     
 [On the difficulty of a distributional semantics of spoken language](https://scholarworks.umass.edu/scil/vol2/iss1/18/)     
 Proceedings of the Society for Computation in Linguistics 2019    
