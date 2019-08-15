@@ -8,16 +8,18 @@ Natural Language Processing.
 
 ## Recent Activities
 
+- Moved to Toronoto to work at Samsung AI
 - I am on the program committee for NIPS 2018
 - I am on the program committee for ACL 2018  
 - Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
 - Research internship at [Microsoft Research Montreal](http://www.maluuba.com/) May-Sep 2017  
-- I am on the program committee EMNLP 2017 WMT
-- I am on the program committee for SEM 2017
-- I am on the program committee for ACL 2017
 
 
 ## Publications
+
+Chris Emmery, Ákos Kádár, Travis J. Wiltshire, Andrew T. Hendrickson . 
+[Towards Replication in Computational Cognitive Modeling: A Machine Learning Perspective](https://link.springer.com/article/10.1007/s42113-019-00055-w) . 
+Computational Brain & Behavior . 
 
 Enrique Manjavacas, Ákos Kádár, and Mike Kestemont    
 [Improving Lemmatization of Non-Standard Languages with Joint Learning](https://arxiv.org/pdf/1903.06939.pdf)    
