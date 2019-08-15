@@ -17,9 +17,9 @@ Natural Language Processing.
 
 ## Publications
 
-Chris Emmery, Ákos Kádár, Travis J. Wiltshire, Andrew T. Hendrickson . 
-[Towards Replication in Computational Cognitive Modeling: A Machine Learning Perspective](https://link.springer.com/article/10.1007/s42113-019-00055-w) . 
-Computational Brain & Behavior . 
+Chris Emmery, Ákos Kádár, Travis J. Wiltshire, Andrew T. Hendrickson    
+[Towards Replication in Computational Cognitive Modeling: A Machine Learning Perspective](https://link.springer.com/article/10.1007/s42113-019-00055-w)    
+Computational Brain & Behavior    
 
 Enrique Manjavacas, Ákos Kádár, and Mike Kestemont    
 [Improving Lemmatization of Non-Standard Languages with Joint Learning](https://arxiv.org/pdf/1903.06939.pdf)    
