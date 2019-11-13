@@ -1,9 +1,10 @@
 Started at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) 
-in August 2019 as Senior AI Researcher.
-Currently finishing my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University. 
+in August 2019 as Senior AI Researcher. I completed my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).   
+    
+My thesis is available [here](/assets/dissertation.pdf).
    
 
-My PhD project was in the area of Integrating Vision and Language under the supervision of [Afra Alishahi](http://ilk.uvt.nl/~aalishah/) and [Grzegorz Chrupala](http://grzegorz.chrupala.me/), focusing on the joint learning of linguistic and visual representations in multiple languages using deep learning techniques from Computer Vision and 
+My PhD project was in the area of Integrating Vision and Language  focusing on the joint learning of linguistic and visual representations in multiple languages using deep learning techniques from Computer Vision and 
 Natural Language Processing. 
 
 ## Recent Activities
