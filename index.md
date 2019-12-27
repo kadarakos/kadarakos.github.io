@@ -1,14 +1,11 @@
 Researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto). 
 I completed my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).     
      
-My thesis is available [here](/assets/dissertation.pdf).  
-   
-Joined [The Missing Pages](https://www.buzzsprout.com/475810) psychedelic podcast series.
-   
+My thesis is available [here](/assets/dissertation.pdf).     
 
 
-## Recent Activities
-
+## Recent
+- Joined [The Missing Pages](https://www.buzzsprout.com/475810) psychedelic podcast series.
 - Moved to Toronoto to work at Samsung AI
 - I am on the program committee for NIPS 2018
 - I am on the program committee for ACL 2018  
