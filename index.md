@@ -1,10 +1,8 @@
 Researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto). 
-I completed my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).  
-My PhD project was in the area of Integrating Vision and Language focusing on the joint learning of linguistic and visual representations in multiple languages using deep learning techniques from Computer Vision and 
-Natural Language Processing.  
-    
+I completed my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).     
+     
 My thesis is available [here](/assets/dissertation.pdf).  
-  
+   
 Joined [The Missing Pages](https://www.buzzsprout.com/475810) psychedelic podcast series.
    
 
