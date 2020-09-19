@@ -1,7 +1,7 @@
 I am a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on parsing 
 natural languages to executable code. Previously researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working
-on semantic parsing and dependency parsing. I did my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).     
-My thesis is available [here](/assets/dissertation.pdf).     
+on semantic parsing and dependency parsing. I did my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).  Wrote 
+[thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.     
 
 
 ## Recent
