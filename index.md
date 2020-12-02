@@ -1,6 +1,6 @@
 I am a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on parsing 
-natural languages to executable code. Previously researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working
-on semantic parsing and dependency parsing. I did my PhD at department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).  Wrote 
+natural languages into executable code. Previously researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working
+on semantic parsing and dependency parsing. I did my PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).  Wrote 
 [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
 
 
@@ -16,6 +16,10 @@ on semantic parsing and dependency parsing. I did my PhD at department of [Cogni
 
 ## Publications
 
+Federico Fancellu, Ákos Kádár, Ran Zhang, Afsaneh Fazly     
+[Accurate Polyglot Semantic Parsing With DAG Grammars](https://www.aclweb.org/anthology/2020.findings-emnlp.320.pdf)    
+EMNLP Findings 2020   
+    
 Chris Emmery, Ákos Kádár, Travis J. Wiltshire, Andrew T. Hendrickson    
 [Towards Replication in Computational Cognitive Modeling: A Machine Learning Perspective](https://link.springer.com/article/10.1007/s42113-019-00055-w)    
 Computational Brain & Behavior 2019      
