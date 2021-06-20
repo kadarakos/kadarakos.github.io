@@ -16,6 +16,22 @@ on semantic parsing and dependency parsing. I did my PhD at the department of [C
 
 ## Publications
 
+Peng Xu, Wenjie Zi, Hamidreza Shahidi, Ákos Kádár, Keyi Tang, Wei Yang, Jawad Ateeq, Harsh Barot, Meidan Alon, Yanshuai Cao  
+[Turing: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface](https://arxiv.org/pdf/2106.04559.pdf)  
+ACL 2021 Demo track | [Website](https://www.borealisai.com/en/applying-ai/turing/)   
+
+Ákos Kádár, Lan Xiao, Mete Kemertas, Federico Fancellu, Allan Jepson, Afsaneh Fazly  
+[Dependency parsing with structure preserving embeddings](https://www.aclweb.org/anthology/2021.eacl-main.144/)  
+EACL 2021  
+
+Judit Ács, Ákos Kádár, Andras Kornai  
+[Subword Pooling Makes a Difference](https://www.aclweb.org/anthology/2021.eacl-main.194/)  
+EACL 2021 | [Code](https://github.com/juditacs/subword-choice)  
+
+Chris Emmery, Ákos Kádár, Grzegorz Chrupała  
+[Adversarial Stylometry in the Wild: Transferable Lexical Substitution Attacks on Author Profiling](https://www.aclweb.org/anthology/2021.eacl-main.203/)  
+EACL 2021 | [Code](https://github.com/cmry/reap)  
+
 Federico Fancellu, Ákos Kádár, Ran Zhang, Afsaneh Fazly     
 [Accurate Polyglot Semantic Parsing With DAG Grammars](https://www.aclweb.org/anthology/2020.findings-emnlp.320.pdf)    
 EMNLP Findings 2020   
