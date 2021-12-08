@@ -1,5 +1,3 @@
-I work as a Natural Language Processing and Machine Learning engineer and developer. Currently I'm working at [explosion](https://explosion.ai/) and I'm one of the core developers of [spaCy](https://spacy.io/).  
-
 I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). We've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
 ) [part](https://www.borealisai.com/en/blog/tutorial-18-parsing-ii-wcfgs-inside-algorithm-and-weighted-parsing/
 ) [tutorial](https://www.borealisai.com/en/blog/tutorial-19-parsing-iii-pcfgs-and-inside-outside-algorithm/
