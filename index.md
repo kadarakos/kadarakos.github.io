@@ -1,6 +1,6 @@
 Hey,  
 
-I am Ákos Kádár and I am working as a researcher and developer mainly in Natural Language Processing. I am currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it.
+I'm Ákos Kádár and I'm working as a researcher and developer mainly in Natural Language Processing. I am currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it.
 
 
 I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). We've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
