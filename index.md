@@ -1,3 +1,8 @@
+Hey,  
+
+I am Ákos Kádár and I am working as a researcher and developer mainly in Natural Language Processing. I am currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it.
+
+
 I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). We've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
 ) [part](https://www.borealisai.com/en/blog/tutorial-18-parsing-ii-wcfgs-inside-algorithm-and-weighted-parsing/
 ) [tutorial](https://www.borealisai.com/en/blog/tutorial-19-parsing-iii-pcfgs-and-inside-outside-algorithm/
@@ -5,19 +10,9 @@ I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/
 
 
 Previously I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working
-on semantic parsing and dependency parsing.  
+on [semantic parsing](https://aclanthology.org/2020.findings-emnlp.320/) and [dependency parsing](https://aclanthology.org/2021.eacl-main.144/).  
 
-I did my PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/).  Wrote [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
-
-
-## Recent
-- Joined Borealis AI
-- Joined [The Missing Pages](https://www.buzzsprout.com/475810) psychedelic podcast series.
-- Moved to Toronoto to work at Samsung AI
-- I am on the program committee for NIPS 2018
-- I am on the program committee for ACL 2018  
-- Presented [Imagination improves Multimodal Translation](https://arxiv.org/abs/1705.04350) at IJCNLP in Taipei
-- Research internship at [Microsoft Research Montreal](http://www.maluuba.com/) May-Sep 2017  
+Before starting in the industry I did my PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/). Wrote [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
 
 
 ## Publications
