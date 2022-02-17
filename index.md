@@ -1,16 +1,16 @@
-Hey,  
+Hey there,  
 
-I'm Ákos Kádár and I'm working as a researcher and developer mainly in Natural Language Processing. I am currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it.
+You've reached the professional page of Ákos Kádár.  Here is my short bio:     
+
+I'm working as a researcher and developer mainly in Natural Language Processing. Currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it. I'm located in Rotterdam, The Netherlands.  
 
 
-I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). We've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
+I've also spent some lovely time in Canada and I'm still looking to go back if life turns out that way. I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). During this time we've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
 ) [part](https://www.borealisai.com/en/blog/tutorial-18-parsing-ii-wcfgs-inside-algorithm-and-weighted-parsing/
 ) [tutorial](https://www.borealisai.com/en/blog/tutorial-19-parsing-iii-pcfgs-and-inside-outside-algorithm/
-) on syntactic parsing with [Simon J.D. Prince](https://scholar.google.com/citations?hl=en&user=fjm67xYAAAAJ&view_op=list_works) if you are interested.  
-
-
-Previously I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working
-on [semantic parsing](https://aclanthology.org/2020.findings-emnlp.320/) and [dependency parsing](https://aclanthology.org/2021.eacl-main.144/).  
+) on syntactic parsing with [Simon J.D. Prince](https://scholar.google.com/citations?hl=en&user=fjm67xYAAAAJ&view_op=list_works) if you are interested.  Prior to Borealis I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto) working still
+on [semantic parsing](https://aclanthology.org/2020.findings-emnlp.320/), but also [dependency parsing](https://aclanthology.org/2021.eacl-main.144/). I also lived in Montreal for 5 months and did a 5 months internship at Microsoft Research Montreal, where we developed 
+[TextWorld](https://www.microsoft.com/en-us/research/project/textworld/) mainly with [Marc-Alexandre Côté](https://scholar.google.com/citations?user=L83CE5gAAAAJ&hl=en).
 
 Before starting in the industry I did my PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/). Wrote [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
 
