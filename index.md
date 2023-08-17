@@ -1,11 +1,12 @@
 Hey there,  
 
-You've reached the professional page of Ákos Kádár.  Here is my short bio:     
+You've reached the professional page of Ákos Kádár.  I'm located in Rotterdam, The Netherlands. Here is my short bio:     
 
-I'm working as a researcher and developer mainly in Natural Language Processing. Currently working at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it. I'm located in Rotterdam, The Netherlands. I'm grateful that I'm one of the lucky ones who had the opportunity to make a living writing open-source code.
+I'm a researcher and developer in Machine Learning with the majority of my experience in mainly in Natural Language Processing. Currently working with the [AIVA](https://www.aiva.ai/) R&D team bringing powerful generative models music into production.
 
+Before this I worked at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it. I'm grateful that I was one of the lucky ones who had the opportunity to make a living writing open-source code.
 
-Before this I spent some lovely time in Canada and I'm still looking to go back if life turns out that way. I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). During this time we've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
+Before coming back to Europe I've spent some lovely time in Canada and I'm still looking to go back if life turns out that way. I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). During this time we've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
 ) [part](https://www.borealisai.com/en/blog/tutorial-18-parsing-ii-wcfgs-inside-algorithm-and-weighted-parsing/
 ) [tutorial](https://www.borealisai.com/en/blog/tutorial-19-parsing-iii-pcfgs-and-inside-outside-algorithm/
 ) on syntactic parsing with [Simon J.D. Prince](https://scholar.google.com/citations?hl=en&user=fjm67xYAAAAJ&view_op=list_works) if you are interested.  Prior to Borealis I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto), where we've published on
