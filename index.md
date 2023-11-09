@@ -2,18 +2,18 @@ Hey there,
 
 You've reached the professional page of Ákos Kádár.  I'm located in Rotterdam, The Netherlands. Here is my short bio:     
 
-I'm a researcher and developer in Machine Learning with the majority of my experience in mainly in Natural Language Processing. Currently working with the [AIVA](https://www.aiva.ai/) R&D team bringing powerful generative models music into production.
+I'm a researcher and developer in Machine Learning with the majority of my experience in Natural Language Processing. Currently working on music with the R&D team of [AIVA](https://www.aiva.ai/) bringing powerful generative models music into production.
 
 Before this I worked at [explosion](https://explosion.ai/) on the popular NLP library [spaCy](https://spacy.io/) and [thinc](https://thinc.ai/) the machine learning library powering it. I'm grateful that I was one of the lucky ones who had the opportunity to make a living writing open-source code.
 
 Before coming back to Europe I've spent some lovely time in Canada and I'm still looking to go back if life turns out that way. I was a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/) in Toronto working on [semantic parsing](https://www.borealisai.com/en/applying-ai/turing/). During this time we've also published a [three](https://www.borealisai.com/en/blog/tutorial-15-parsing-i-context-free-grammars-and-cyk-algorithm/
 ) [part](https://www.borealisai.com/en/blog/tutorial-18-parsing-ii-wcfgs-inside-algorithm-and-weighted-parsing/
 ) [tutorial](https://www.borealisai.com/en/blog/tutorial-19-parsing-iii-pcfgs-and-inside-outside-algorithm/
-) on syntactic parsing with [Simon J.D. Prince](https://scholar.google.com/citations?hl=en&user=fjm67xYAAAAJ&view_op=list_works) if you are interested.  Prior to Borealis I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto), where we've published on
+) on syntactic parsing with [Simon J.D. Prince](https://scholar.google.com/citations?hl=en&user=fjm67xYAAAAJ&view_op=list_works) if you are interested.  Prior to Borealis I was a researcher at [Samsung AI Toronto](https://research.samsung.com/aicenter_toronto), where we published on
 [semantic parsing](https://aclanthology.org/2020.findings-emnlp.320/) and [dependency parsing](https://aclanthology.org/2021.eacl-main.144/). I also did an internship in Microsoft Research Montreal, where we developed 
 [TextWorld](https://www.microsoft.com/en-us/research/project/textworld/) mainly with [Marc-Alexandre Côté](https://scholar.google.com/citations?user=L83CE5gAAAAJ&hl=en).
 
-Before starting in the industry worked on my PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/). Wrote [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
+Before starting in the industry I did a PhD at the department of [Cognitive Science & Artificial Intelligence](https://www.tilburguniversity.edu/students/show/item-csai/) at Tilburg University under the supervision of [Grzegorz Chrupala](http://grzegorz.chrupala.me/) and [Afra Alishahi](http://ilk.uvt.nl/~aalishah/). Wrote [my thesis](/assets/dissertation.pdf) on learning multi-modal and multilingual sentence representations.  
 
 
 ## Publications
